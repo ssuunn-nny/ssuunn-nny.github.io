@@ -1,4 +1,3 @@
-# ssuunn-nny.github.io
 <!DOCTYPE html>
 <html lang="ko">
 <head>
